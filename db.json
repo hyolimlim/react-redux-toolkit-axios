@@ -1,0 +1,94 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "ㄴㅇㄹ",
+      "pw": "sdf",
+      "nickname": "sdf"
+    },
+    {
+      "id": "sdf",
+      "pw": "sdf",
+      "nickname": "sdf"
+    },
+    {
+      "id": "test",
+      "pw": "test",
+      "nickname": "test"
+    },
+    {
+      "username": "ㄴㅇㄹ",
+      "password": "sdf",
+      "nickname": "sdf",
+      "id": 2
+    },
+    {
+      "username": "ㄴㅇㄹ",
+      "password": "sdf",
+      "nickname": "sdf",
+      "id": 3
+    },
+    {
+      "username": "ㄴㅇㄹ",
+      "password": "sdf",
+      "nickname": "sdf",
+      "id": 4
+    },
+    {
+      "username": "sdf",
+      "password": "sdf",
+      "nickname": "sdf",
+      "id": 5
+    },
+    {
+      "username": "sdfsdfsdf",
+      "password": "sdf",
+      "nickname": "sdf",
+      "id": 6
+    },
+    {
+      "username": "sd",
+      "password": "sd",
+      "nickname": "sd",
+      "id": 7
+    },
+    {
+      "username": "sdf",
+      "password": "sdfs",
+      "nickname": "sdf",
+      "id": 8
+    },
+    {
+      "username": "sdf",
+      "password": "sdf",
+      "nickname": "sdf",
+      "id": 9
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "nickname": "test",
+      "id": 10
+    },
+    {
+      "username": "sdf",
+      "password": "sdf",
+      "nickname": "dsf",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
